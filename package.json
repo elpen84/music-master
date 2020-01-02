@@ -1,7 +1,7 @@
 {
   "name": "music-master",
   "version": "1.0.0",
-  "homepage": "https://elpen84.github.io/music-master-react/",
+  "homepage": "https://elpen84.github.io/music-master",
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
@@ -18,7 +18,7 @@
     "@babel/plugin-proposal-class-properties": "^7.2.3",
     "gh-pages": "^2.1.1",
     "live-server": "^1.2.1",
-    "parcel-bundler": "^1.10.3",
+    "parcel-bundler": "^1.12.4",
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
   },
